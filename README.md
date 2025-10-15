@@ -62,13 +62,13 @@ This project, I create and deploy an Azure mobile app by using a Visual Studio.
 
 
 ## Open Windows PowerShell, and then run the following commands to clone the GitHub repo that contains the Apache Cordova mobile app solution and verify the download:
->>> PowerShell
+>>> PowerShell:-
 cd "c:\users\student\Documents\Visual Studio 2022"
 
->>> PowerShell
+>>> PowerShell:-
 git clone https://github.com/Azure-Samples/dotnet-sqldb-tutorial.git
 
->>> PowerShell
+>>> PowerShell:-
 cd ./dotnet-sqldb-tutorial/
 
 >>Close Windows PowerShell.
