@@ -73,7 +73,7 @@ cd ./dotnet-sqldb-tutorial/
 
 >>Close Windows PowerShell.
 
->>In Microsoft Visual Studio, open the DotNetAppSqlDb project in C:\Users\Student\Documents\Visual Studio 2022\dotnet-sqldb-tutorial\DotNetAppSqlDb.
+## In Microsoft Visual Studio, open the DotNetAppSqlDb project in C:\Users\Student\Documents\Visual Studio 2022\dotnet-sqldb-tutorial\DotNetAppSqlDb.
 
 >>Wait for the Project to be opened.
 
